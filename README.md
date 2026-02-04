@@ -49,7 +49,7 @@ Before you begin, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Saransh0412/Carbon-footprint-Tracker-With-AI-Recommendation.git
 cd carbon-footprint-tracker
 ```
 
