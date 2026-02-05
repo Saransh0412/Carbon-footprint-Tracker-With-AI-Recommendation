@@ -1,3 +1,5 @@
+## Full Project and Video Demo in Submission.txt (Drive links because of large size of files)
+
 # 🌍 Carbon Footprint Calculator & Tracker
 
 A full-stack web application that helps individuals and small businesses track and reduce their carbon footprint through AI-powered personalized recommendations.
